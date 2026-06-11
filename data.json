@@ -1,0 +1,44 @@
+{
+  "week": "2 Jun 2026",
+  "days": [
+    {
+      "day": "TUESDAY",
+      "date": "Tue 2 Jun",
+      "vendors": [
+        { "name": "Just Salad", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1690489263/exy8r9kpycx1f2ux3vrg.jpg" },
+        { "name": "El Jefe's Taqueria", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1689131882/g0s7dblyxrctzjivsrgh.jpg" },
+        { "name": "Life Alive Organic Cafe", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1725985225/h8swb5as5ftalmj48jkp.jpg" },
+        { "name": "Al's South Street Cafe", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1738095605/p9s7tqnxoauyytd1utzx.jpg" },
+        { "name": "Tribos Peri Peri", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1697471155/o4pvgli951ngmotl1uhp.jpg" },
+        { "name": "Fete", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1742590880/awlpgedbrktln6blfnwr.jpg" },
+        { "name": "Noor Mediterranean Grill", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1761923412/sxczxzycw5ycxec6jgjp.jpg" }
+      ]
+    },
+    {
+      "day": "WEDNESDAY",
+      "date": "Wed 3 Jun",
+      "vendors": [
+        { "name": "Just Salad", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1690489263/exy8r9kpycx1f2ux3vrg.jpg" },
+        { "name": "Lone Star Taco Bar", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1761148203/ohzty5hynqvbblyiqydw.jpg" },
+        { "name": "Energize", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1777564326/woiszxlgniqxxelqvgg6.jpg" },
+        { "name": "Pennypacker's", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1740073840/jhwqv3flnzjovgwdhrur.jpg" },
+        { "name": "Tasty BBQ", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1554753500/qcjnqq1xhovxloieuxe0.jpg" },
+        { "name": "ZUZUMOMO", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1758300648/pwfcaglye9upkx4voo5o.jpg" },
+        { "name": "Aceituna Grill", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1739913853/zocouagvye6rbwgkhpga.jpg" }
+      ]
+    },
+    {
+      "day": "THURSDAY",
+      "date": "Thu 4 Jun",
+      "vendors": [
+        { "name": "Just Salad", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1690489263/exy8r9kpycx1f2ux3vrg.jpg" },
+        { "name": "Mamacita", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1689180533/zbmiz2mmgexbzcpt0x5c.jpg" },
+        { "name": "Juicy Greens", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1689179841/tqz789loeh40uv7afiy6.jpg" },
+        { "name": "Vester Cafe", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1741137029/d2ixfriiatgzemqqk44r.jpg" },
+        { "name": "Binge Bowls", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1742399269/rflb2x42szz2lykzdriy.jpg" },
+        { "name": "Namastay Boston", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1769114820/mhbryt6zypzjtutykea6.jpg" },
+        { "name": "South End Pita", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1761060618/jkdzdngto6vwcimmnwrg.jpg" }
+      ]
+    }
+  ]
+}
