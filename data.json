@@ -1,43 +1,43 @@
 {
-  "week": "23 Jun 2026",
+  "week": "30 Jun 2026",
   "days": [
     {
       "day": "TUESDAY",
-      "date": "Tue 23 Jun",
+      "date": "Tue 30 Jun",
       "vendors": [
         { "name": "Just Salad", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1690489263/exy8r9kpycx1f2ux3vrg.jpg" },
-        { "name": "Bocadillos", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1773400015/nq2dbbk1nj5gqk9gwtjv.jpg" },
+        { "name": "El Jefe's Taqueria", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1689131882/g0s7dblyxrctzjivsrgh.jpg" },
         { "name": "Life Alive Organic Cafe", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1725985225/h8swb5as5ftalmj48jkp.jpg" },
         { "name": "Al's South Street Cafe", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1738095605/p9s7tqnxoauyytd1utzx.jpg" },
-        { "name": "Rootastes", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1690379240/lllqftwmvoyrn9shghsu.jpg" },
-        { "name": "Everest Momo Pizza", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1760637680/ijsar1tgzqc2xikeaf5n.jpg" },
-        { "name": "The Halal Guys", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1709678149/inqehuxp9pmicisioipy.jpg" }
+        { "name": "Lotus & Lime", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1765905785/evkjbmo4embwk8qunzxp.jpg" },
+        { "name": "OTTO Portland Pizza", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1689182032/ilvyeewifpxebtbwle0u.jpg" },
+        { "name": "Noon Mediterranean", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1712952553/moiypibkvc45oc3spsaj.jpg" }
       ]
     },
     {
       "day": "WEDNESDAY",
-      "date": "Wed 24 Jun",
+      "date": "Wed 1 Jul",
       "vendors": [
         { "name": "Just Salad", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1690489263/exy8r9kpycx1f2ux3vrg.jpg" },
-        { "name": "Lone Star Taco Bar", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1761148203/ohzty5hynqvbblyiqydw.jpg" },
-        { "name": "Poke by Love Art", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1741902013/ydrnizmazahgx6ye9eat.jpg" },
-        { "name": "DaVinci Gelato Waffle and Panini", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1765827862/jmw4gsxxdttt1at8wq5g.jpg" },
-        { "name": "Avellino's", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1689110093/byug3ocaqbwhfclzx1vq.jpg" },
-        { "name": "29 Bistro", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1701966213/foch6veohwlxkjw9gwaq.jpg" },
-        { "name": "Eat Greek", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1727723249/xxytmdztlkj9qqg6vd84.jpg" }
+        { "name": "Jugos", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1773153548/aagufhbtdxsszorhmhxr.jpg" },
+        { "name": "Energize", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1777564326/woiszxlgniqxxelqvgg6.jpg" },
+        { "name": "Pennypacker's", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1740073840/jhwqv3flnzjovgwdhrur.jpg" },
+        { "name": "Turmeric House", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1728680177/q6q7qgp58vfffbqvicam.jpg" },
+        { "name": "Thai Taki", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1759788178/t7vrkc3j0vwvmwxj8x88.jpg" },
+        { "name": "Blue Nile", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1736533047/vskt9xadofzyhqtazcax.jpg" }
       ]
     },
     {
       "day": "THURSDAY",
-      "date": "Thu 25 Jun",
+      "date": "Thu 2 Jul",
       "vendors": [
         { "name": "Just Salad", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1690489263/exy8r9kpycx1f2ux3vrg.jpg" },
         { "name": "Mamacita", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1689180533/zbmiz2mmgexbzcpt0x5c.jpg" },
         { "name": "Juicy Greens", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1689179841/tqz789loeh40uv7afiy6.jpg" },
         { "name": "Vester Cafe", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1741137029/d2ixfriiatgzemqqk44r.jpg" },
-        { "name": "Tivoli", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1733941940/kwpcbgabz7d560xm8ttl.jpg" },
-        { "name": "Nubian Markets", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1724258789/bycf1bbjp5sq8pm0vqyc.jpg" },
-        { "name": "Gyroscope", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1770067185/gija5cw5tkjkuut9ywvd.jpg" }
+        { "name": "Pho N Rice", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1734979850/ek4xwfd3n5in8xqqyequ.jpg" },
+        { "name": "Flavor Boom", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1733417400/r0jvlnniqsvgfabrftii.jpg" },
+        { "name": "Dirty Water Dough Company", "logo": "https://res.cloudinary.com/cater2-me/image/upload/c_fill,g_center,h_140,w_230/v1764700325/ynfdw4gjn3ptp7w66qpg.jpg" }
       ]
     }
   ]
